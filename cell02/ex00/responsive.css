@@ -1,0 +1,11 @@
+.leftbox{
+    background-color: pink;
+    text-align: center;
+    border: solid black;
+}
+
+.rightbox{
+    background-color: whitesmoke;
+    text-align: center;
+    border: solid black;
+}
